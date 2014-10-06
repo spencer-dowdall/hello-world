@@ -1,4 +1,7 @@
 hello-world
 ===========
 
-a welcoming repository
+a welcoming repository for learning git and GitHub!
+
+
+
